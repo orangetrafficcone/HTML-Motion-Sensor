@@ -1,2 +1,4 @@
-# HTML-Motion-Sensor
-1.5-day motion sensor project!
+# HTML Motion Sensor
+
+A browser-based motion sensor made with HTML for a school project.
+It uses the supplied camera for image subtraction to detect motion
